@@ -1,7 +1,6 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
-
 ### Node ###
 # Logs
 logs
@@ -44,7 +43,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+**node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
